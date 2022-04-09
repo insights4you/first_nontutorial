@@ -1,1 +1,2 @@
 this is a test text file to see what happens if I add a file to the project folder
+maybe I should make a change in the editor, save it, and see how it all flows through.
